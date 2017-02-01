@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd source-code || echo "missing input resource: source-code"
+cd source-code/stemmarest || echo "missing input resource: source-code"
 
 echo "Using MAVEN_OPTS: ${MAVEN_OPTS}"
 
